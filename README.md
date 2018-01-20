@@ -1,5 +1,5 @@
 # starter-app-node-ts
-A good way to start with a ready-to-develop node app written in Typescript
+[![Build Status](https://travis-ci.org/gjdass/starter-app-node-ts.svg?branch=master)](https://travis-ci.org/gjdass/starter-app-node-ts)
 
 ## The goal
 
