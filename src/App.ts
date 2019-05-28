@@ -17,7 +17,7 @@ export class App {
 
     
     public Stop() {
-        this._logger.info("Stopping applications [%s] ...", this._name);
+        this._logger.info("Stopping application [%s] ...", this._name);
         // DO SOME STUFF
     }
     
